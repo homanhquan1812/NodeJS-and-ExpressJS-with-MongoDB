@@ -22,7 +22,7 @@ https://expressjs.com/en/starter/hello-world.html
 
 11. Install Nodemon by typing "npm install -g nodemon" on Terminal.
 
-12. Go to "package.json", add this line at "script": 
+12. Go to "package.json", add this line at "scripts": 
 "start": "nodemon index.js",
 
 13. Run "npm start" on Terminal.
